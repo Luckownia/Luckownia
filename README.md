@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Filip
+## Hi! 👋 I'm Filip
 
 I am a third-year ICT student at the AGH University of Science and Technology in Krakow, Poland. Passionate about technology, programming, and problem-solving, I'm always looking to expand my skill set and take on new challenges.
 
